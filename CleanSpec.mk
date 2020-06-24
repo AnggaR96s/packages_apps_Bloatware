@@ -47,3 +47,6 @@
 # ******************************************************************
 # NEWER CLEAN STEPS MUST BE AT THE END OF THE LIST ABOVE THIS BANNER
 # ******************************************************************
+
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GalleryGo)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GContacts)
