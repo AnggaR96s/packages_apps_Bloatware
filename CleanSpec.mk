@@ -51,3 +51,7 @@
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GalleryGo)
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GContacts)
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GMessaging)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GDialer)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GDeskClock)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GCalculator)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GCalendar)

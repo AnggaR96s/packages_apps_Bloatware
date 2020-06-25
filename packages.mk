@@ -2,4 +2,8 @@
 PRODUCT_PACKAGES += \
     GalleryGo \
     GContacts \
-    GMessaging
+    GMessaging \
+    GDialer \
+    GCalculator \
+    GDeskClock \
+    GCalendar
