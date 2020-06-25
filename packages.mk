@@ -1,4 +1,5 @@
 # Build Bloatware
 PRODUCT_PACKAGES += \
     GalleryGo \
-    GContacts
+    GContacts \
+    GMessaging

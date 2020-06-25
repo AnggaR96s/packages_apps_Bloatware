@@ -50,3 +50,4 @@
 
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GalleryGo)
 $(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GContacts)
+$(call add-clean-step, rm -rf $(PRODUCT_OUT)/system/app/GMessaging)
