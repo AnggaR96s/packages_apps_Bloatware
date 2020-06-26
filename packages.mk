@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     GDialer \
     GCalculator \
     GDeskClock \
-    GCalendar
+    GCalendar \
+    RemovePackages
